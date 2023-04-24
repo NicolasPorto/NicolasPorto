@@ -31,4 +31,4 @@
 
 ##
 
-![Snake animation](https://github.com/NicolasPorto2/NicolasPorto2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NicolasPorto/NicolasPorto/blob/output/github-contribution-grid-snake.svg)
