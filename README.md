@@ -29,5 +29,3 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/NicolasPorto/NicolasPorto/blob/output/github-contribution-grid-snake.svg)
